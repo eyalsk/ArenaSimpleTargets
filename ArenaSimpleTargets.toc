@@ -1,0 +1,8 @@
+## Interface: 90002
+## Author: Eyal Solnik
+## Title: ArenaSimpleTargets
+## Notes: Creates macros for targeting the party and the enemy in the Arena that you can then bind to whatever key you like.
+
+## Version: 1.0b
+
+ArenaSimpleTargets.lua
